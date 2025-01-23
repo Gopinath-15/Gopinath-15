@@ -2,13 +2,13 @@
 
 Passionate software enthusiast with a strong foundation in programming and problem-solving
 <img align="right" width="370" height="290" src="https://i.pinimg.com/736x/d1/7c/5e/d17c5e74b6ba63e3eb7fd6804a84403c.jpg">
-- 🔭 Here's my [portfolio](gopinathresume.my.canva.site/portfolio-website )                                                 
+- 🔭 Here's my [portfolio](https://gopinathresume.my.canva.site/-creative-portfolio-presentation)                                                 
 - 🌱 I’m currently learning Verilog Coding and PCB design.
 - 👯 I’m looking to collaborate on VLSI and PCB design.
 - 🤔 I’m looking for help with Placements in Nvidia,Siemens,Synopsys.
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/gopinath-k-1802ba25a)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gopinath-k-1802ba25a)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: Code explorer.
 
