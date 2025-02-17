@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Gopinath
 
 Passionate software enthusiast with a strong foundation in programming and problem-solving
-- 🔭 Here's my [portfolio](https://gopinathresume.my.canva.site/-creative-portfolio-presentation)                                                 
+- 🔭 Here's my [portfolio](https://gopinathwebsiteportfolio.framer.website)                                                 
 - 🌱 I’m currently learning Verilog Coding and PCB design.
 <img align="right" width="370" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQzMnN1M24xYTV1dmtha3lyNjAwYzk5OWdvZWdmYmh5OHBwMTlnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp">
 
