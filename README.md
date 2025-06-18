@@ -2,11 +2,11 @@
 
 Passionate software enthusiast with a strong foundation in programming and problem-solving
 - 🔭 Here's my [portfolio](https://gopinathwebsiteportfolio.framer.website)                                                 
-- 🌱 I’m currently learning Verilog Coding and PCB design.
+- 🌱 I’m currently expanding my skills in Python, C/C++, and software system design and learning Verilog Coding and PCB design.
 <img align="right" width="370" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQzMnN1M24xYTV1dmtha3lyNjAwYzk5OWdvZWdmYmh5OHBwMTlnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp">
 
-- 👯 I’m looking to collaborate on VLSI and PCB design.
-- 🤔 I’m looking for help with Placements in Nvidia, Siemens, Synopsys.
+- 👯 Open to Collaborations in Software development projects, VLSI design, verification, and PCB development projects, 
+- 🤔  Looking for opportunities, guidance, and mentorship in both semiconductor industries (like NVIDIA, Siemens, Synopsys) and software engineering roles where I can contribute to meaningful technology solutions
 - 📫 How to reach me :
             <br />
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gopinath-k-1802ba25a)
