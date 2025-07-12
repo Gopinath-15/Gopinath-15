@@ -4,7 +4,10 @@ Passionate software enthusiast with a strong foundation in programming and probl
 - 🔭 Here's my [portfolio](https://gopinathwebsiteportfolio.framer.website)  
 - 🌱 I’m currently expanding my skills in Python, C/C++, and software system design and learning Verilog Coding and PCB design.
 
-<img align="right" width="370" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQzMnN1M24xYTV1dmtha3lyNjAwYzk5OWdvZWdmYmh5OHBwMTlnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp">
+<video align="right" width="370" height="290" autoplay loop muted>
+  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programming-animation-download-in-lottie-json-gif-static-svg-file-formats--coding-developing-coder-programmer-software-technology-pack-network-communication-animations-2991717.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 - 👯 Open to Collaborations in Software development projects, VLSI design, verification, and PCB development projects.  
 - 🤔 Looking for opportunities, guidance, and mentorship in both semiconductor industries (like NVIDIA, Siemens, Synopsys) and software engineering roles where I can contribute to meaningful technology solutions.  
