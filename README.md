@@ -9,7 +9,7 @@ Passionate software enthusiast with a strong foundation in programming and probl
 - 🤔  Looking for opportunities, guidance, and mentorship in both semiconductor industries (like NVIDIA, Siemens, Synopsys) and software engineering roles where I can contribute to meaningful technology solutions.
 - 📫 How to reach me :
             <br />
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gopinath-k-1802ba25a)
+  [<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gopinath-k-1802ba25a](https://lottiefiles.com/animation/programming-3575881))
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 ### IDE and Tools I Use
