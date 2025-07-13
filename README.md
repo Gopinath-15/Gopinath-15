@@ -28,7 +28,7 @@ Passionate software enthusiast with a strong foundation in programming and probl
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=arduino" height="50" width="50"/>&nbsp;
 <img height="50" width="50" src="https://avatars.githubusercontent.com/u/3374914?s=280&v=4"/>&nbsp;
-<img src="https://www.freelogovectors.net/wp-content/uploads/2019/02/tinkercad-logo.png" alt="Tinkercad Logo" width="50" height="50"/>
+<img src="https://www.freelogovectors.net/wp-content/uploads/2019/02/tinkercad-logo.png" alt="Tinkercad Logo" width="80" height="80"/>
 
 ---
 
