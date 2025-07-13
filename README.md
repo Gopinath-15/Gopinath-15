@@ -17,7 +17,8 @@ Passionate software enthusiast with a strong foundation in programming and probl
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />&nbsp;
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />&nbsp;
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/?size=96&id=Pd2x9GWu9ovX&format=png" />&nbsp;
 
 ---
 
@@ -26,7 +27,8 @@ Passionate software enthusiast with a strong foundation in programming and probl
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp;
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=arduino" height="50" width="50"/>&nbsp;
-<img height="50" width="50" src="https://avatars.githubusercontent.com/u/3374914?s=280&v=4"/>
+<img height="50" width="50" src="https://avatars.githubusercontent.com/u/3374914?s=280&v=4"/>&nbsp;
+<img height="50" width="50" src="https://images.seeklogo.com/logo-png/43/1/tinkercad-logo-png_seeklogo-434296.png" />
 
 ---
 
