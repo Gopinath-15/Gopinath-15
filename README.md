@@ -4,10 +4,7 @@ Passionate software enthusiast with a strong foundation in programming and probl
 - 🔭 Here's my [portfolio](https://gopinathwebsiteportfolio.framer.website)  
 - 🌱 I’m currently expanding my skills in Python, C/C++, and software system design and learning Verilog Coding and PCB design.
 
-<!-- Lottie Animation Preview (clickable) -->
-<a href="https://app.lottiefiles.com/share/38af7c38-27ec-45c0-ae2b-30b39e3048f1" target="_blank">
-  <img align="right" width="370" height="290" src="https://assets10.lottiefiles.com/packages/lf20_38af7c38-27ec-45c0-ae2b-30b39e3048f1.png" alt="Lottie Animation Preview"/>
-</a>
+<img align="right" width="370" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQzMnN1M24xYTV1dmtha3lyNjAwYzk5OWdvZWdmYmh5OHBwMTlnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp">
 
 - 👯 Open to Collaborations in Software development projects, VLSI design, verification, and PCB development projects.  
 - 🤔 Looking for opportunities, guidance, and mentorship in both semiconductor industries (like NVIDIA, Siemens, Synopsys) and software engineering roles where I can contribute to meaningful technology solutions.  
@@ -34,3 +31,7 @@ Passionate software enthusiast with a strong foundation in programming and probl
 <img src="https://www.freelogovectors.net/wp-content/uploads/2019/02/tinkercad-logo.png" alt="Tinkercad Logo" width="125" height="125"/>
 
 ---
+
+### Animated Dev Code
+
+<img src="https://assets9.lottiefiles.com/private_files/lf30_T4o63r6Wav/giphy.gif" alt="Dev Code Animation" width="370" height="290" />
