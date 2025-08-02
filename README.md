@@ -29,6 +29,8 @@ Passionate software enthusiast with a strong foundation in programming and probl
 <img src="https://skillicons.dev/icons?i=arduino" height="50" width="50"/>&nbsp;
 <img height="50" width="50" src="https://avatars.githubusercontent.com/u/3374914?s=280&v=4"/>&nbsp;
 <img src="https://www.freelogovectors.net/wp-content/uploads/2019/02/tinkercad-logo.png" alt="Tinkercad Logo" width="125" height="125"/>
+<img src="https://brandfetch.com/wokwi.com" alt="Wokwi Logo" width="125" height="125"/>
+
 
 ---
 
