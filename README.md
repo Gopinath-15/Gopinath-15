@@ -29,8 +29,8 @@ Passionate software enthusiast with a strong foundation in programming and probl
 <img src="https://skillicons.dev/icons?i=arduino" height="50" width="50"/>&nbsp;
 <img height="50" width="50" src="https://avatars.githubusercontent.com/u/3374914?s=280&v=4"/>&nbsp;
 <img src="https://www.freelogovectors.net/wp-content/uploads/2019/02/tinkercad-logo.png" alt="Tinkercad Logo" width="125" height="125"/>&nbsp;
-<img src="https://www.crowdsupply.com/img/3c52/e4021e4f-f00d-494e-ab97-2a0aa5ef3c52/wokwi-logo_png_organization-profile.png" alt="Wokwi Logo" width="80" height="50"/>&nbsp;
-<img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/mentor-graphics.svg" alt="Mentor Graphics Logo"/>&nbsp;
+<img src="https://www.crowdsupply.com/img/3c52/e4021e4f-f00d-494e-ab97-2a0aa5ef3c52/wokwi-logo_png_organization-profile.png" alt="Wokwi Logo" width="100" height="70"/>&nbsp;
+<img height="80" width="80" src="https://cdn.worldvectorlogo.com/logos/mentor-graphics.svg" alt="Mentor Graphics Logo"/>&nbsp;
 
 ---
 
