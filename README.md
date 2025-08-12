@@ -37,4 +37,4 @@ Passionate software enthusiast with a strong foundation in programming and probl
 ### Animated Dev Code
 
 <img src="https://assets9.lottiefiles.com/private_files/lf30_T4o63r6Wav/giphy.gif" alt="Dev Code Animation" width="370" height="290" />
-add this image logo also as tools i use with the same size as before https://cdn.worldvectorlogo.com/logos/mentor-graphics.svg
+
